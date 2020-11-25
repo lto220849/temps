@@ -1,14 +1,1 @@
-{
-    "code": 200,
-    "message": "成功",
-    "data":   
-             {
-                "host":[ "http://obbo007.com","http://obbo008.com","http://obbo009.com" ],
-                            
-                 "videoHost":[ "http://obbo010.com","http://obbo011.com"]
-                
-            }
-
-     
-            
-}
+{"code": 200,"message": "成功","data":   {"host":[ "http://obbo007.com","http://obbo008.com","http://obbo009.com" ],"videoHost":[ "http://obbo010.com","http://obbo011.com"]}}
