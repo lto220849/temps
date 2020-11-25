@@ -1,5 +1,1 @@
-{
-    "code": 200,
-    "message": "成功",
-    "data": ["http://obbo007.com","http://obbo008.com","http://obbo009.com","http://obbo010.com","http://obbo11.com"]
-}
+{ "code": 200,"message": "成功","data":["http://obbo007.com","http://obbo008.com","http://obbo009.com","http://obbo010.com","http://obbo11.com"]}
